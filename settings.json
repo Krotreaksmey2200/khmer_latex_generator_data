@@ -1,0 +1,7 @@
+{
+    "api_key": "AIzaSyBHQl633VfNvb-nn-pK_hUdyrcXe6SQUec",
+    "output_folder": "/Users/heng/Documents/Data_scince/generate_data/dataset",
+    "dataset_name": "khmer_math",
+    "model": "gemini-2.5-flash",
+    "threads": 4
+}
